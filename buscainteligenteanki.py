@@ -1,8 +1,7 @@
 import sys
 import webbrowser
 
-
-f = str(sys.argv[1])
+f = input('$ ')
 print("Você buscou pela palavra: {} ".format(f))
 
 googleimage = "https://www.google.com/search?tbm=isch&q={}".format(f)

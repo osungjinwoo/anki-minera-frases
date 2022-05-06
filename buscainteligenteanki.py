@@ -11,7 +11,8 @@ linguee = "https://www.linguee.com.br/portugues-ingles/search?source=ingles&quer
 forvo = "https://forvo.com/word/{}/#en_usa".format(f)
 cambridge = "https://dictionary.cambridge.org/pt/dicionario/ingles-portugues/{}".format(f)
 michaelis = "https://michaelis.uol.com.br/moderno-ingles/busca/ingles-portugues-moderno/{}".format(f)
-reverso = "https://context.reverso.net/traducao/ingles-portugues/{}".format(f)
+reverso = "https://www.reverso.net/tradu%C3%A7%C3%A3o-texto#sl=eng&tl=por&text={}".format(f)
+
 translate = "https://translate.google.com.br/?hl=pt-BR&sl=en&tl=pt&text={}".format(f)
 
 

@@ -14,6 +14,7 @@ michaelis = "https://michaelis.uol.com.br/moderno-ingles/busca/ingles-portugues-
 reverso = "https://www.reverso.net/tradu%C3%A7%C3%A3o-texto#sl=eng&tl=por&text={}".format(f)
 collins = "https://www.collinsdictionary.com/pt/dictionary/english/{}".format(f)
 translate = "https://translate.google.com.br/?hl=pt-BR&sl=en&tl=pt&text={}".format(f)
+oxford = "https://www.oxfordlearnersdictionaries.com/us/definition/english/rv?q={}".format(f)
 
 
 webbrowser.open(forvo,new=2)
@@ -25,4 +26,5 @@ webbrowser.open(michaelis,new=2)
 webbrowser.open(collins,new=2)
 webbrowser.open(reverso,new=2)
 webbrowser.open(taoeba,new=2)
+webbrowser.open(oxford,new=2)
 webbrowser.open(translate,new=2)

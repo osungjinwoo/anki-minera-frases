@@ -1,1 +1,1 @@
-# myankiscript
+# anky-mineration

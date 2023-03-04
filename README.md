@@ -2,6 +2,11 @@
 
 Este script vai te ajudar a minerar palavras para o anki abrindo tudo diretamente em seu navegador, usando os melhores sites para mineração de palavras em inglês britanico, inclusive dicionários👑
 
+## Este Script é compatível com todos sistemas operacionais.
+
+Certifique-se de instalar o python3 do seu repositorio ou da store do seu sistema operacional  antes de usar!
+
+
 ### modo de uso:
 
 ```git clone: https://github.com/michaelklaan/myankiscript

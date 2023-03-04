@@ -19,7 +19,8 @@ Ele ira mostrar o IPA no terminal e abrir abas do seu navegador utilizando diver
 Ex:
 
 python3 minera.py
-$ just fine```
+$ just fine
+```
 
 ### instale as dependenciasn para funcionar:
 

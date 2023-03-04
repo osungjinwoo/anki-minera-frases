@@ -27,12 +27,12 @@ try:
         #webbrowser.open(googleimage,new=2)
         #webbrowser.open(michaelis,new=2)
         #webbrowser.open(forvo,new=2)
-        #webbrowser.open(oxford,new=2)
+        webbrowser.open(oxford,new=2)
         #webbrowser.open(reverso,new=2)
         #webbrowser.open(collins,new=2)
-        #webbrowser.open(cambridge,new=2)
+        webbrowser.open(cambridge,new=2)
         #webbrowser.open(translateuk,new=2)
-        #webbrowser.open(taoeba,new=2)
+        webbrowser.open(taoeba,new=2)
         webbrowser.open(deepl,new=2)
         
 

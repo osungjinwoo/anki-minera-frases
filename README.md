@@ -25,7 +25,9 @@ $ just fine
 
 ### instale as dependencias para funcionar:
 
-```pip install ipa
+```
+pip install ipa
 pip install eng_to_ipa
-pip install colored```
+pip install colored
+```
 

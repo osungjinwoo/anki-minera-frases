@@ -22,7 +22,7 @@ python3 minera.py
 $ just fine
 ```
 
-### instale as dependenciasn para funcionar:
+### instale as dependencias para funcionar:
 
 ```pip install ipa
 pip install eng_to_ipa

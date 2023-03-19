@@ -23,20 +23,21 @@ try:
         oxford = "https://www.oxfordlearnersdictionaries.com/us/definition/english/{}".format(f)
         deepl = "https://www.deepl.com/translator#en/pt/{}".format(f)
         youglish = "https://pt.youglish.com/pronounce/{}/english/uk".format(f)
-    
-        webbrowser.open(linguee,new=2)
-        webbrowser.open(googleimage,new=2)
-        webbrowser.open(michaelis,new=2)
-        webbrowser.open(forvo,new=2)
-        webbrowser.open(oxford,new=2)
-        webbrowser.open(reverso,new=2)
-        webbrowser.open(collins,new=2)
-        webbrowser.open(cambridge,new=2)
-        webbrowser.open(translateuk,new=2)
+
+
+#        webbrowser.open(forvo,new=2)
+#        webbrowser.open(linguee,new=2)
+#        webbrowser.open(michaelis,new=2)
+#        webbrowser.open(oxford,new=2)
+#        webbrowser.open(reverso,new=2)
+#        webbrowser.open(googleimage,new=2)
         webbrowser.open(taoeba,new=2)
+        webbrowser.open(translateuk,new=2)
         webbrowser.open(deepl,new=2)
+        webbrowser.open(cambridge,new=2)
+        webbrowser.open(collins,new=2)
         webbrowser.open(youglish, new=2)
-        
+
 
 except KeyboardInterrupt:
     print(colored("\r\n\r\nPrograma interrompido pelo usuário." ,"red"))

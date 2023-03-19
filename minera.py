@@ -22,6 +22,7 @@ try:
         translateuk = "https://translate.google.co.uk/?sl=en&tl=pt&text={}".format(f)
         oxford = "https://www.oxfordlearnersdictionaries.com/us/definition/english/{}".format(f)
         deepl = "https://www.deepl.com/translator#en/pt/{}".format(f)
+        youglish = "https://pt.youglish.com/pronounce/{}/english/uk".format(f)
     
         webbrowser.open(linguee,new=2)
         webbrowser.open(googleimage,new=2)
@@ -34,6 +35,7 @@ try:
         webbrowser.open(translateuk,new=2)
         webbrowser.open(taoeba,new=2)
         webbrowser.open(deepl,new=2)
+        webbrowser.open(youglish, new=2)
         
 
 except KeyboardInterrupt:

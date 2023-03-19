@@ -31,3 +31,9 @@ pip install eng_to_ipa
 pip install colored
 ```
 
+Basta remover o "#" para descomentar o código e utiliza-lo completo.
+A forma que você baixou é exatamente a forma que eu utilizo para meus flashcards.
+
+Qualquer dúvida, fale comigo:
+
+al4xs@protonmail.com

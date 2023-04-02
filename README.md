@@ -10,7 +10,7 @@ Certifique-se de instalar o python3 do seu repositorio ou da store do seu sistem
 ### modo de uso:
 
 ```
-git clone: https://github.com/michaelklaan/myankiscript
+git clone https://github.com/michaelklaan/myankiscript
 cd myankiscript/
 python3 minera.py
 

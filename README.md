@@ -10,6 +10,10 @@ Certifique-se de instalar o python3 do seu repositorio ou da store do seu sistem
 
 ### VIDEO TUTORIAL
 
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7037832644671287296"> Clique Aqui para ver</a>
+
+Ou baixe do repositório.
+
 <video controls width="480" height="270">
   <source src="tutorial.mp4" type="video/mp4">
   Seu navegador não suporta a tag de vídeo.

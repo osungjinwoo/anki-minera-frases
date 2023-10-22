@@ -1,5 +1,5 @@
 ipa
-eng_to_ipa
+eng_to_ipa-0.0.2
 webbrowser
 colored
 requests

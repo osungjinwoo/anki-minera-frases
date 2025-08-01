@@ -126,10 +126,11 @@ jʊ wɜːk hɑːd
 ```
 
 
+
 Quaisquer dúvidas, fale comigo!
 ## 🦸 Autor
 
- <a href="https://github.com/al4xs">
+ <a href="https://github.com/oosungjinwoo">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/40411471?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>MICHAEL ETH1C4L H4CK3R</b></sub></a> <a href="http://osungjinwoo.github.io/" title="Github Personal Blog"> 🚀</a>
